@@ -66,8 +66,7 @@ This Power BI project analyzes customer feedback and operational data from an in
 
 ---
 
-## 🔗 Live Report (if available)
-
+## 🔗 Live Report 
 [View Power BI Report](https://app.powerbi.com/groups/d44ec7e4-386b-44f6-91d2-d550e5e1985c/reports/7fdd75e6-b381-424a-b3a9-dfa685f81a84/1bb5c7871be0140a096d)
 
 ---
