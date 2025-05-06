@@ -15,7 +15,7 @@ This Power BI project analyzes customer feedback and operational data from an in
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **Sentiment Classification**: Feedback categorized into "Excellent", "Good", and "Need Improvement".
 - **Calculated Columns & DAX**:
@@ -41,7 +41,7 @@ This Power BI project analyzes customer feedback and operational data from an in
 
 ---
 
-## 🧠 Tools & Technologies
+##  Tools & Technologies
 
 - Power BI (Desktop & Service)
 - DAX (Measures, Calculated Columns)
@@ -58,7 +58,7 @@ This Power BI project analyzes customer feedback and operational data from an in
 
 ---
 
-## 📈 Potential Improvements
+##  Potential Improvements
 
 - Automate data refresh with Power BI Gateway.
 - Integrate live feedback via API.
@@ -71,7 +71,7 @@ This Power BI project analyzes customer feedback and operational data from an in
 
 ---
 
-## 🧑‍💻 Author
+##  Author
 
 **Aman Dubey**  
 Aspiring Data Analyst | Power BI Developer | SQL & Python Enthusiast
